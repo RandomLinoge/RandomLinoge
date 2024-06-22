@@ -50,13 +50,13 @@ author_education_details:
                 college_degree: Cyber Enterprise Defender
                 description: Certification for cyber professionals tasked with incident detection, prevention and response through continuous security monitoring.
                 visibility: true
-              - college_logo: tcm.png
+              - college_logo: tcm.jpg
                 college_name: TCM Security Inc.
                 college_url: https://academy.tcm-sec.com/
                 college_degree: Practical Ethical Hacking
                 description: Up to date practical hacking techniques.
                 visibility: true
-              - college_logo: tcm.png
+              - college_logo: tcm.jpg
                 college_name: TCM Security Inc.
                 college_url: https://academy.tcm-sec.com/
                 college_degree: Practical Malware Analysis & Triage
@@ -87,7 +87,7 @@ author_project_details:
                 project_description: A tool used for basic analysis of URL links, IP addresses, and IoC links. Extracting and analyzing suspicious files and detecting for potential malware.
                 project_url: https://github.com/CrunchCorps/Hunterseeker
                 visibility: true
-              - project_thumbnail: remotecontroller.jpg
+              - project_thumbnail: remotecontroller.png
                 project_title: RemoteController
                 project_description: A script coded in bash, designed to create an anonymous environment to log into a secure virtual server and conduct scans on a target IP address.
                 project_url: https://github.com/CrunchCorps/RemoteController

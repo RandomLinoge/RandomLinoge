@@ -8,11 +8,11 @@ $text-width: 650px;
 
 html[data-theme="dark"] {
     --bold-color: rgb(188, 188, 188);
-    --box-background-color: hsl(0, 0%, 20%);
+    --box-background-color: hsl(0, 3%, 8%);
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
-    --link-color: #f69801;
+    --link-color: #2f63dd;
     --link-color-visited: hsl(250, 100%, 60%);
     --main-background-color: rgb(28, 28, 30);
     --main-text-color: rgb(139, 139, 139);
@@ -55,7 +55,7 @@ html[data-theme="light"] {
         --light-text-color: rgb(199, 199, 204);
         --link-color: #f69801;
         --nav-color: #131313;
-        --search-color: #FF7901;
+        --search-color: #243ddd;
         --nav-link-color: rgba(255, 255, 255, .5);
         --link-color-visited: hsl(250, 100%, 60%);
         --main-background-color: rgb(28, 28, 30);
@@ -75,7 +75,7 @@ html[data-theme="light"] {
         --highlight-color: hsl(0, 0%, 80%);
         --light-border-color: rgb(230, 230, 230);
         --light-text-color: rgb(72, 72, 74);
-        --link-color: #ca6521;
+        --link-color: #2129ca;
         --nav-color: #ffffff;
         --nav-link-color: #111111;
         --search-color: #ababab;
@@ -316,7 +316,7 @@ header {
         width: 5%;
         cursor: pointer;
         text-align: center;
-        color: orange;
+        color: rgba(37, 34, 211, 0.581);
 
       .icon {
         vertical-align: text-top;
@@ -324,7 +324,7 @@ header {
         fill: #fff;
 
         &:hover {
-          fill: orange;
+          fill: rgb(0, 4, 255);
           transform: rotate(90deg);
         }
       }
@@ -349,13 +349,13 @@ header {
         position: absolute;
         top: 10%;
         width: 100%;
-        color: #f69801;
+        color: #0115f6;
         background: rgba(0, 0, 0, 0);
         font-size: 30px;
         font-weight: 300;
         text-align: center;
         border: 0px;
-        border-bottom: 1px dashed #ffa000;
+        border-bottom: 1px dashed #1100ff;
         margin: 0px auto;
         margin-top: -51px;
         padding-left: 30px;
@@ -364,7 +364,7 @@ header {
 
       &:focus {
         border: 0;
-        border-bottom: 1px dashed #ffa000;
+        border-bottom: 1px dashed #0015ff;
       }
     }
 
@@ -405,12 +405,12 @@ header {
         text-decoration: none;
         font-size: 25px;
         line-height: 25px;
-        color: orange !important;
+        color: rgb(0, 85, 255) !important;
         text-decoration: none;
       }
 
       &__date {
-        color: orange;
+        color: rgb(0, 81, 255);
         font-size: 15px;
         line-height: 15px;
       }
@@ -488,7 +488,7 @@ header {
 }
 
 .snipcart-modal__close-title {
-    color: coral !important;
+    color: rgb(133, 80, 255) !important;
 }
 .snipcart__button--icon {
     border: 0px solid #f0f5f6 !important;
@@ -543,7 +543,7 @@ header {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: coral;
+    color: rgb(80, 100, 255);
 }
 
 .product{
@@ -590,7 +590,7 @@ header {
 }
 
 .lg-progress-bar .lg-progress {
-    background-color: #db980f !important;
+    background-color: #0f50db !important;
     height: 4px;
     width: 0;
 }
@@ -652,7 +652,7 @@ header {
 }
 .article-card-link, .article-card-link:hover{
     text-decoration: none;
-    color: orange !important;
+    color: rgb(0, 81, 255) !important;
 }
 .article-card{
     list-style-type: none;

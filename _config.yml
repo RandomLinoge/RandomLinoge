@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Shifting between dimensions of sleep, beyond the walls of desolation; Research and Development out of self-deceit. Dreaming of the wilderness. Grasping bats in the belfry, installed and woven intricately in the organic existence.
 
 url: "https://randomlinoge.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:

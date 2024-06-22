@@ -1,6 +1,6 @@
 ---
 name: Rain Ginsebrg
-username: r4nd0ml1n063
+username: randomlinoge
 bio: "Chief Information Security Officer, Malware Researcher, based in Israel"
 site: https://RandomLinoge.github.io
 avatar: bakeneko-htb.png
@@ -14,6 +14,4 @@ social:
       url: "https://app.hackthebox.com/profile/494106/"
     - title: "Instagram"
       url: "https://www.instagram.com/blackplague.mirrors/"
-    #- title: "facebook"
-    #  url: "https://www.facebook.com/sujay.kundu2"
 ---

@@ -3,8 +3,8 @@ subtitle: DeathCorps for Indescriptive Offensive Security
 description: >- # this means to ignore newlines until "baseurl:"
   Shifting between dimensions of sleep, beyond the walls of desolation; Research and Development out of self-deceit. Dreaming of the wilderness. Grasping bats in the belfry, installed and woven intricately in the organic existence.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://randomlinoge.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -211,7 +211,7 @@ jekyll_admin:
 
 ### Switching Deployment Strategy (in DEPLOY_STRATEGY) file change the key accordingly:
 # none - For no default
-gh-pages - For Github Pages
+# gh-pages - For Github Pages
 # firebase - For Firebase Hosting
 
 exclude:

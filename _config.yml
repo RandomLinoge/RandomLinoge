@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: r4nd0ml1n063
+subtitle: DeathCorps for Indescriptive Offensive Security
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Shifting between dimensions of sleep, beyond the walls of desolation; Research and Development out of self-deceit. Dreaming of the wilderness. Grasping bats in the belfry, installed and woven intricately in the organic existence.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +27,7 @@ urls:
 author_logo: profile.png
 author: John Doe
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_email: "randomlinoge@protonmail.ch"
 author_location: India
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
@@ -35,70 +35,95 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Matrix
+              company_logo: logo-matrix-new.png
+              company_url: https://www.matrix.co.il/
+              designation: Chief Information Security Officer
+              description: Outsourced by Matrix to head the cybersecurity of a local municipality goverment.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
+              - college_logo: johnbryce.png
+                college_name: John Bryce
+                college_url: https://www.johnbryce.co.il/
+                college_degree: Cyber Enterprise Defender
+                description: Certification for cyber professionals tasked with incident detection, prevention and response through continuous security monitoring.
+                visibility: true
+              - college_logo: tcm.png
+                college_name: TCM Security Inc.
+                college_url: https://academy.tcm-sec.com/
+                college_degree: Practical Ethical Hacking
+                description: Up to date practical hacking techniques.
+                visibility: true
+              - college_logo: tcm.png
+                college_name: TCM Security Inc.
+                college_url: https://academy.tcm-sec.com/
+                college_degree: Practical Malware Analysis & Triage
+                description: State of the art of malware analysis and reverse engineering.
+                visibility: true
+              - college_logo: taggert.jpg
+                college_name: The Taggart Institute
+                college_url: https://taggartinstitute.org/
+                college_degree: Responsible Red Teaming
+                description: Practical application, Tradecraft in the areas of C2 infrastructure design, malware emulation, and payload engineering.
+                visibility: true
+              - college_logo: infosec.jpg
+                college_name: Infosec
                 college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: Cyber Incident Response
+                description: Incident detection, Prevention and Response.
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: Dumpalyzer-logo-Bak3n3ko.png
+                project_title: Dumpalyzer
+                project_description: Bash script whose purpose is to analyze Memory and HDD files, forensically extract them with five different tools in an interactive mode, and output organized log files.
+                project_url: https://github.com/CrunchCorps/Dumpalyzer
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: hunterseeker-logo.jpg
+                project_title: HunterSeeker
+                project_description: A tool used for basic analysis of URL links, IP addresses, and IoC links. Extracting and analyzing suspicious files and detecting for potential malware.
+                project_url: https://github.com/CrunchCorps/Hunterseeker
                 visibility: true
+              - project_thumbnail: remotecontroller.jpg
+                project_title: RemoteController
+                project_description: A script coded in bash, designed to create an anonymous environment to log into a secure virtual server and conduct scans on a target IP address.
+                project_url: https://github.com/CrunchCorps/RemoteController
+                visibility: true              
+
+
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  randomlinoge
+facebook_username: Rain Ginsberg
+linkedin_username: rainginsberg
+#behance_username: johndoe
+instagram_username: blackplague.mirrors
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+#hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+#wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+#formspree_email: johndoe@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: devlopr
+olvy_organization: crunchcorps
 olvy_widget_type: sidebar
 
 # syntax highlighter

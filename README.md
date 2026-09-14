@@ -1,13 +1,10 @@
 <div align="center">
 
-<pre>
-██████╗  █████╗ ██╗  ██╗██████╗ ███╗   ██╗██████╗ ██╗  ██╗ ██████╗
-██╔══██╗██╔══██╗██║ ██╔╝╚════██╗████╗  ██║╚════██╗██║ ██╔╝██╔═████╗
-██████╔╝███████║█████╔╝  █████╔╝██╔██╗ ██║ █████╔╝█████╔╝ ██║██╔██║
-██╔══██╗██╔══██║██╔═██╗  ╚═══██╗██║╚██╗██║ ╚═══██╗██╔═██╗ ████╔╝██║
-██████╔╝██║  ██║██║  ██╗██████╔╝██║ ╚████║██████╔╝██║  ██╗╚██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-</pre>
+<img
+  src="./assets/bak3n3k0-profile.png"
+  alt="Bak3n3k0. Dark cyberpunk hooded figure with a black cat"
+  width="720"
+/>
 
 ### `RandomLinoge // signal acquired // identity unresolved`
 
@@ -62,10 +59,58 @@ constructs:
 | :--- | :--- | :---: |
 | **OpenPGP Quantum Guard** | PQC experimentation, key inspection, compatibility testing | `ACTIVE` |
 | **PQC Certificate Guard** | Post-quantum certificate research and validation | `ACTIVE` |
-| **AIRSENTRY-C6** | Portable ESP32-C6 wireless observation platform | `PROTOTYPE` |
+| **Atomic Red Team Contributions** | Safe adversary-emulation tests for KeePassXC extraction and npm postinstall execution | `VALIDATED` |
+| **BlackChannel Sentinel** | FREE-WILi OG and ESP32-C6 radio-event investigation console | `FIELD TEST` |
+| **Wardriving Field Node** | Portable Wi-Fi survey and evidence-collection device | `BUILDING` |
 | **The Mad Hatter's Mesh Party** | LoRa and Meshtastic hardware CTF | `TRANSMITTING` |
 | **Hallucination Key** | Dual-panel physical security puzzle | `CONTAINED` |
 | **Through the Cipherglass** | Cryptographic image-decoding challenge | `SOLVABLE?` |
+| **ESP32 Mini Chess** | One-button chess engine and tactical HUD on an 80×160 IPS display | `PLAYABLE` |
+
+<details>
+<summary><strong>Extended project archive</strong></summary>
+
+<br>
+
+### Security, networks, and cryptography
+
+| Project | Focus | Stage |
+| :--- | :--- | :---: |
+| **RuView** | Radio and signal-visibility experimentation | `LAB` |
+| **Pi-hole Lab** | DNS filtering, network visibility, and telemetry | `DEPLOYED` |
+| **Threat Modeling** | STRIDE, trust boundaries, evidence strength, and safety-impact analysis | `ACTIVE` |
+| **Cybersec Stress Dashboard** | Security-operations pressure and workload visualization | `PROTOTYPE` |
+| **Scraper Designs** | Structured collection and data-extraction experiments | `LAB` |
+| **Encryption Puzzles** | Layered cryptographic challenges and solver design | `ACTIVE` |
+| **PGP / GnuPG Party** | OpenPGP interoperability, signing, and key-exchange experiments | `PREPARING` |
+| **TAMI LAN Party** | Local security, networking, and key-signing event work | `PREPARING` |
+
+### Embedded systems and strange hardware
+
+| Project | Focus | Stage |
+| :--- | :--- | :---: |
+| **ESP32-CAM Lab** | Camera initialization, MJPEG streaming, and embedded diagnostics | `LAB` |
+| **Nixie Tube Clock** | High-voltage timepiece and display electronics | `PROJECT` |
+| **Nixie Tube Watch** | Four-tube wearable watch concept with a 160–170 V supply | `PLANNING` |
+| **Meshtastic Bot Network** | Autonomous encrypted-channel bots across LoRa nodes | `FIELD TEST` |
+| **OLED Novel Reader** | ESP32 reader interface for small monochrome OLED displays | `PROTOTYPE` |
+| **Rich Shield TWO** | Embedded control, sensor, and display experiments | `LAB` |
+| **USB Explorer 200 Repurpose** | Hardware reuse and USB-focused experimentation | `PLANNING` |
+
+### Interactive systems, games, and narrative artifacts
+
+| Project | Focus | Stage |
+| :--- | :--- | :---: |
+| **Axiometa Genesis** | Experimental narrative-system project | `PROJECT` |
+| **Graphical Cthulhu Game** | Graphical cosmic-horror game | `PROJECT` |
+| **Grief Redesign** | Visual language for grief, memory, and absence | `ITERATING` |
+| **Grief Ritual** | Interactive ritual and remembrance experience | `PROJECT` |
+| **Parallel Universes Graph** | Interactive graph for branching realities | `PROJECT` |
+| **Reality Analyzer** | Experimental interface for inspecting uncertain realities | `PROJECT` |
+| **2.5 Cyberpunk Games** | Small cyberpunk game experiments | `COLLECTION` |
+| **Bak3n3k0 Graphic Novel #1** | First long-form visual narrative under the Bak3n3k0 identity | `IN PROGRESS` |
+
+</details>
 
 ## Known interfaces
 

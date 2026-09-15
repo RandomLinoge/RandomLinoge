@@ -59,58 +59,64 @@ constructs:
 | :--- | :--- | :---: |
 | **OpenPGP Quantum Guard** | PQC experimentation, key inspection, compatibility testing | `ACTIVE` |
 | **PQC Certificate Guard** | Post-quantum certificate research and validation | `ACTIVE` |
-| **Atomic Red Team Contributions** | Safe adversary-emulation tests for KeePassXC extraction and npm postinstall execution | `VALIDATED` |
+| **Atomic Red-Team Contributions** | T1555.005 KeePassXC credential extraction and T1204.005 npm postinstall execution | `VALIDATED` |
 | **BlackChannel Sentinel** | FREE-WILi OG and ESP32-C6 radio-event investigation console | `FIELD TEST` |
-| **Wardriving Field Node** | Portable Wi-Fi survey and evidence-collection device | `BUILDING` |
-| **The Mad Hatter's Mesh Party** | LoRa and Meshtastic hardware CTF | `TRANSMITTING` |
-| **Hallucination Key** | Dual-panel physical security puzzle | `CONTAINED` |
-| **Through the Cipherglass** | Cryptographic image-decoding challenge | `SOLVABLE?` |
-| **ESP32 Mini Chess** | One-button chess engine and tactical HUD on an 80×160 IPS display | `PLAYABLE` |
+| **GhostDrift Recon Wardriver** | Portable Wi-Fi survey and evidence-collection device | `BUILDING` |
+| **ESP32-Based Mini-Chess Platform** | One-button chess engine and tactical HUD on an 80×160 IPS display | `PLAYABLE` |
 
-<details>
-<summary><strong>Extended project archive</strong></summary>
+## BSidesTLV 2026 Challenges
 
-<br>
+### Hardware Challenges
+
+| Challenge | Category and mechanism | Status |
+| :--- | :--- | :---: |
+| **The Mad Hatter's Mesh Party** | Local Radio Frequency challenge using LoRa, Meshtastic, encrypted channels, and autonomous bot dialogue | `TRANSMITTING` |
+| **Hallucination Key** | Local Physical challenge using dual ESP32/CYD panels and a GPIO-controlled lockbox | `CONTAINED` |
+
+### Remote Challenges
+
+| Challenge | Category and mechanism | Status |
+| :--- | :--- | :---: |
+| **Through the Cipherglass** | Remote Crypto challenge using a 127-cell hex grid, alternating ring traversal, progressive shifts, and image decoding | `SOLVABLE?` |
+| **Glass Memory** | Remote Forensics court challenge using interactive hearings, submitted exhibit paths, file anatomy, process evidence, and clock-normalized artifacts | `IN DEVELOPMENT` |
 
 ### Security, networks, and cryptography
 
 | Project | Focus | Stage |
 | :--- | :--- | :---: |
-| **RuView** | Radio and signal-visibility experimentation | `LAB` |
-| **Pi-hole Lab** | DNS filtering, network visibility, and telemetry | `DEPLOYED` |
-| **Threat Modeling** | STRIDE, trust boundaries, evidence strength, and safety-impact analysis | `ACTIVE` |
-| **Cybersec Stress Dashboard** | Security-operations pressure and workload visualization | `PROTOTYPE` |
-| **Scraper Designs** | Structured collection and data-extraction experiments | `LAB` |
-| **Encryption Puzzles** | Layered cryptographic challenges and solver design | `ACTIVE` |
-| **PGP / GnuPG Party** | OpenPGP interoperability, signing, and key-exchange experiments | `PREPARING` |
-| **TAMI LAN Party** | Local security, networking, and key-signing event work | `PREPARING` |
+| **RuView // Signal Cartography** | Radio and signal-visibility experimentation | `LAB` |
+| **Pi-hole DNS-TLS / Tailscale Lab** | DNS filtering, encrypted transport, remote access, and network telemetry | `DEPLOYED` |
+| **Threat Modeling Frameworks** | STRIDE, trust boundaries, evidence strength, and safety-impact analysis | `ACTIVE` |
+| **Cybersec Stress Dashboard** | Cybersecurity stress, operational pressure, and workload visualization | `PROTOTYPE` |
+| **Cipher Madness** | Experimental cryptography, layered ciphers, and puzzle-system design | `PROJECT` |
+| **PGP / GnuPG Key Signing Party** | OpenPGP interoperability, signing, and key-exchange experiments | `PREPARING` |
+| **TAMI LAN Party** | Local networking, security experimentation, and key-signing event work | `PREPARING` |
 
 ### Embedded systems and strange hardware
 
 | Project | Focus | Stage |
 | :--- | :--- | :---: |
-| **ESP32-CAM Lab** | Camera initialization, MJPEG streaming, and embedded diagnostics | `LAB` |
-| **Nixie Tube Clock** | High-voltage timepiece and display electronics | `PROJECT` |
-| **Nixie Tube Watch** | Four-tube wearable watch concept with a 160–170 V supply | `PLANNING` |
-| **Meshtastic Bot Network** | Autonomous encrypted-channel bots across LoRa nodes | `FIELD TEST` |
-| **OLED Novel Reader** | ESP32 reader interface for small monochrome OLED displays | `PROTOTYPE` |
-| **Rich Shield TWO** | Embedded control, sensor, and display experiments | `LAB` |
-| **USB Explorer 200 Repurpose** | Hardware reuse and USB-focused experimentation | `PLANNING` |
+| **ESP32-CAM MJPEG2SD Diagnostic Platform** | AI Thinker camera initialization, MJPEG streaming, SD capture, and diagnostics | `LAB` |
+| **Four-Digit Retro Nixie Home Clock** | Home-built four-digit clock with high-voltage Nixie display electronics | `BUILT` |
+| **IN-17 170V Wrist Chronometer** | Four-tube Nixie watch with ATmega328PB control and a 160–170 V boost stage | `PLANNING` |
+| **Meshtastic Encrypted LoRa Bot Mesh** | Autonomous bots and scripted dialogue across encrypted radio channels | `FIELD TEST` |
+| **ESP32 SH1106 LittleFS Novel Reader** | 128×64 OLED reader with U8g2, file selection, auto-scroll, and manual paging | `PROTOTYPE` |
+| **Rich Shield TWO Matrix Book Scroller** | Text reader and automatic book scroller built around an LED matrix display | `BUILT` |
+| **USB Explorer 200 Repurpose** | Repurposed USB forensic device integrated into a cybersecurity investigation workflow | `PROJECT` |
+| **Trigg Hardware Games** | Arduino-class physical games using an LED matrix, buttons, and reaction/timing mechanics | `PROTOTYPE` |
 
 ### Interactive systems, games, and narrative artifacts
 
 | Project | Focus | Stage |
 | :--- | :--- | :---: |
-| **Axiometa Genesis** | Experimental narrative-system project | `PROJECT` |
-| **Graphical Cthulhu Game** | Graphical cosmic-horror game | `PROJECT` |
-| **Grief Redesign** | Visual language for grief, memory, and absence | `ITERATING` |
-| **Grief Ritual** | Interactive ritual and remembrance experience | `PROJECT` |
-| **Parallel Universes Graph** | Interactive graph for branching realities | `PROJECT` |
-| **Reality Analyzer** | Experimental interface for inspecting uncertain realities | `PROJECT` |
-| **2.5 Cyberpunk Games** | Small cyberpunk game experiments | `COLLECTION` |
-| **Bak3n3k0 Graphic Novel #1** | First long-form visual narrative under the Bak3n3k0 identity | `IN PROGRESS` |
-
-</details>
+| **Axiometa Genesis: Shadow Over Innsmouth** | Graphical Cthulhu and cosmic-horror game built with Axiometa Genesis | `PROJECT` |
+| **Grief ReDesign System** | Visual redesign experiments around memory, absence, and degraded recollection | `ITERATING` |
+| **Grief Ritual Protocol** | Python, Rich, asyncio, ANSI animation, and Pygame audio ritual interface | `PROJECT` |
+| **Parallel Universe Engine** | HTML/CSS/JavaScript three-reality state graph with contradiction and overlap mechanics | `PROJECT` |
+| **Reality Analyzer** | Experimental interface for analyzing uncertain realities | `PROJECT` |
+| **2.5D Cyberpunk Game Prototypes** | Small graphical game systems and cyberpunk interface experiments | `COLLECTION` |
+| **Mutation Garden: Malware of Life** | HTML5 Canvas malware grid with infection, mutation, dormancy, immunity, walls, and defensive events | `PLAYABLE` |
+| **Bak3n3k0 // Issue Zero** | First long-form graphic novel under the Bak3n3k0 identity | `IN PROGRESS` |
 
 ## Known interfaces
 
